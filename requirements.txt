@@ -1,0 +1,8 @@
+loguru
+fastapi
+uvicorn
+streamlit
+langdetect
+nltk
+vaderSentiment-fr
+python-Levenshtein
